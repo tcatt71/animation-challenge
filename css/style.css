@@ -2,10 +2,6 @@
   Base
 --------------------------- */
 
-/* * {
-  box-sizing: border-box;
-} */
-
 body {
   padding-top: 60px;
   background: #0f4e7a;
@@ -52,12 +48,6 @@ svg {
     stroke-dashoffset: 0;
   }
 }
-
-/* @keyframes fill-it {
-  100% {
-    fill: #95C7E8;
-  }
-} */
 
 /* --------------------------
 SVG Styles
